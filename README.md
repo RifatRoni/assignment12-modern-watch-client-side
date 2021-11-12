@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# Welcome to MODERN WATCH SHOP website
+Hello! I am **Md. Rifat Hossain Roni**
+I am a regular student of Programming Hero 4th batch.
+I've already learnt html, css, javascript, bootstrap, React JS and Node JS.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# About My Project
+This is my assignment project based on >> MERN Stack (full stack website development project)
+This is no 12 Assignment of Milestone 12
 
-## Available Scripts
+## Name of my Project:  MODERN WATCH SHOP
+Website FIREBASE hosted Link: (https://modern-watch-shop.web.app/)
+**Core Concept: This is an Watch related niche Website - Based on online smart watches**
+Here the main features of this website that easily  a watch shop management can be done. Its a nice website for niche like watch website.
 
-In the project directory, you can run:
+**Technical Information: Here is used- JavaScript: React JS, React Router dom, React BootStrap, firebase authentication, express js, node js and heroku data hosted**
 
-### `npm start`
+## Usage of This Project
+1. Watch of different brands can be sold from here.
+2. The customers can easily get products by ordering from here.
+3. Watch available information are given here.
+4. Users can order through the order form.
+5. Here the profile of a shop website can be shown very nicely.
+6. This type of website is easy and fast loading which will be effective for the watch online shop.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## How to Proper utilize
+Here the watch shop or any type of technical products shop can be sold from here and they can utilize the website properly.

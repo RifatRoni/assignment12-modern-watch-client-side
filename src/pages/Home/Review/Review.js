@@ -44,7 +44,7 @@ const Review = () => {
                     alt="Third slide"
                     />
                     <Carousel.Caption>
-                    <h3 className="text-white">Kalr Willington</h3>
+                    <h3 className="text-white">Kalr Willington, Banker, USA</h3>
                     <p className="text-white">This is good source of watch collection. You can buy from here. Definitely this is good for the best quality product collection.</p>
                     </Carousel.Caption>
                 </Carousel.Item>

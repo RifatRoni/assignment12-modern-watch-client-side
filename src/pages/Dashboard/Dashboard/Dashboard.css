@@ -1,0 +1,10 @@
+.nav-dashboard{
+    height:100vh;
+    border-top: 1px solid white;
+}
+.dashboard-nav{
+    list-style-type:none;
+}
+.dashboard-nav-li{
+    color:white
+}
